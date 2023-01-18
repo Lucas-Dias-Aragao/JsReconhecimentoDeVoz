@@ -13,6 +13,6 @@
  ## O projeto:
 
  <p>Trata-se de um jogo de adivinhar números.</p> 
- <p>Então abra o jogo clicando aqui: , permita o acesso ao seu microfone e pronto, faça seu palpite e tente acertar o número secreto. Se atente as dicas para acertar o número.</p>
+ <p>Então abra o jogo clicando aqui: https://lucas-dias-aragao.github.io/JsReconhecimentoDeVoz/ , permita o acesso ao seu microfone e pronto, faça seu palpite e tente acertar o número secreto. Se atente as dicas para acertar o número.</p>
 
  <p>Para finalizar o jogo diga: 'Game Over' e o mesmo encerrará.</p>
